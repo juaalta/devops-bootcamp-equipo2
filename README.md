@@ -23,7 +23,7 @@ El proyecto consiste en crear 2 entornos de desarrollo basados en Docker para 2 
 
 ## Miembros del equipo
 
-* [Jorge De Luque]()
+* [Jorge De Luque](https://github.com/WorkerJJ)
 * [Juan Salvador Aleixandre](https://github.com/juaalta)
 * [Juanfran](https://github.com/JuanfranM)
 
