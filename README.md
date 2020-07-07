@@ -19,7 +19,7 @@ El proyecto consiste en crear 2 entornos de desarrollo basados en Docker para 2 
   * [Proyecto Desarrollo React](https://github.com/juaalta/proyecto-desarrollo-react)
   * [Proyecto Desarrollo Java](https://github.com/juaalta/proyecto-desarrollo-java)
 * Docker
-  * [juaalta/devops-bootcamp-2019](https://hub.docker.com/r/juaalta/devops-bootcamp-2019)
+  * [Docker Hub Repositories](https://hub.docker.com/search?q=juaalta&type=image)
 
 ## Miembros del equipo
 
