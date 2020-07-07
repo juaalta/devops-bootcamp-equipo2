@@ -25,5 +25,5 @@ El proyecto consiste en crear 2 entornos de desarrollo basados en Docker para 2 
 
 * [Jorge De Luque]()
 * [Juan Salvador Aleixandre](https://github.com/juaalta)
-* [Juanfran]()
+* [Juanfran](https://github.com/JuanfranM)
 
