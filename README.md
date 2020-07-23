@@ -14,8 +14,6 @@ El proyecto consiste en crear 2 entornos de desarrollo basados en Docker para 2 
 ## Repositorios
 
 * GitHub
-  * [dockerfile-java](https://github.com/juaalta/dockerfile-java)
-  * [dockerfile-react](https://github.com/juaalta/dockerfile-react)
   * [Proyecto Desarrollo React](https://github.com/juaalta/proyecto-desarrollo-react)
   * [Proyecto Desarrollo Java](https://github.com/juaalta/proyecto-desarrollo-java)
 * Docker
